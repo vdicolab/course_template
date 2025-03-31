@@ -19,7 +19,7 @@ We also propose three folders to organize course content.
  * data/   : put there data files used in demonstrations, exercises, and hands-on
  * assets/ : put there "resource" files such as the pptx files of your slides, some images files, pdfs which are not directly part of the slides (such as a manual, a cheatsheet, ...), ...
 
-
+If you name the repository, make sure it ends with -training. See other examples: coursename-training.
 
 Any contribution to this course material is highly appreciated 👍. 
 Please [create an issue](https://github.com/sib-swiss/course_template/issues) or submit a pull request to do so.
